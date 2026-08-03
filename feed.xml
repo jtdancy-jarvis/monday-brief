@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 23:16:02 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 23:19:48 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -23,11 +23,11 @@
     </itunes:category>
     <item>
       <title>The Monday Brief — August 3, 2026</title>
-      <description>Good morning, and welcome to the Monday Brief. Here's what actually earned a spot on this week's list — no filler, just the stuff worth carving out real time for. Nine picks this week, across podcasts, video, music, film, television, and books, and we'll move through them roughly in that order. Let's start with audio. If you only have room…</description>
+      <description>A weekly curation of what's worth your attention</description>
       <pubDate>Mon, 03 Aug 2026 09:00:00 +0000</pubDate>
-      <enclosure url="https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-03.mp3" length="5874093" type="audio/mpeg" />
+      <enclosure url="https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-03.mp3" length="7500288" type="audio/mpeg" />
       <guid isPermaLink="true">https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-03.mp3</guid>
-      <itunes:duration>00:06:07</itunes:duration>
+      <itunes:duration>00:07:48</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
