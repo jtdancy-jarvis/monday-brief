@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The Monday Brief</title>
+    <link>https://jtdancy-jarvis.github.io/monday-brief/</link>
+    <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
+    <language>en-us</language>
+    <copyright>Tyler Dancy</copyright>
+    <lastBuildDate>Mon, 03 Aug 2026 21:22:11 +0000</lastBuildDate>
+    <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:author>Tyler Dancy</itunes:author>
+    <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
+    <itunes:summary>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://jtdancy-jarvis.github.io/monday-brief/cover.jpg" />
+    <itunes:owner>
+      <itunes:name>Tyler Dancy</itunes:name>
+      <itunes:email>jtdancy@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary" />
+    </itunes:category>
+    <item>
+      <title>The Monday Brief — August 3, 2026</title>
+      <description>A weekly curation of what's worth your attention</description>
+      <pubDate>Mon, 03 Aug 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-03.mp3" length="7500288" type="audio/mpeg" />
+      <guid isPermaLink="true">https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-03.mp3</guid>
+      <itunes:duration>00:07:48</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
