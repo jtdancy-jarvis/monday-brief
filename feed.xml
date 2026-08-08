@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 23:19:48 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:28:25 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -21,6 +21,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <title>The Monday Brief — August 10, 2026</title>
+      <description>Good morning, Tyler. It's Monday, August tenth. This is the Monday Brief, and it runs about nine minutes. Today: a travel comedy that may be the closest thing on television to the one book you finished fast this year. Three books, none of them by an author you have already read out. UNC opens camp with the quarterback job still…</description>
+      <pubDate>Mon, 10 Aug 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-10.mp3" length="7105840" type="audio/mpeg" />
+      <guid isPermaLink="true">https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-10.mp3</guid>
+      <itunes:duration>00:07:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Monday Brief — August 3, 2026</title>
       <description>A weekly curation of what's worth your attention</description>
