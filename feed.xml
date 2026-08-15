@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 21:23:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 21:43:07 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -21,6 +21,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <title>The Monday Brief — August 17, 2026</title>
+      <description>Good morning, Tyler. It's Monday, August seventeenth. This one runs about twelve minutes. Coming up. A golf book from nineteen ninety-one that turns out to be the ancestor of the one you finished fastest all year. Three artificial intelligence labs admitting, inside a month, that their models got somewhere they were not supposed to be. And Carolina football is now…</description>
+      <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-17.mp3" length="9532093" type="audio/mpeg" />
+      <guid isPermaLink="true">https://jtdancy-jarvis.github.io/monday-brief/episodes/2026-08-17.mp3</guid>
+      <itunes:duration>00:09:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Monday Brief — August 11, 2026</title>
       <description>Good morning, Tyler. It's Tuesday, August eleventh. This is a bonus episode, out of the usual Monday slot, and it runs a little under twelve minutes. Coming up: a replacement watch pick, because the last one turned out to be something you had already finished. It is Disney fan event week in Anaheim, with the experiences showcase on Saturday night.…</description>
