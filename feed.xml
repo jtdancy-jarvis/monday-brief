@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 16:05:21 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:28:04 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -21,6 +21,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <title>The Monday Brief — August 24, 2026</title>
+      <description>A weekly curation of what's worth your attention</description>
+      <pubDate>Mon, 24 Aug 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jtdancy-jarvis/monday-brief/releases/download/ep-2026-08-24/2026-08-24.mp3" length="9123329" type="audio/mpeg" />
+      <guid isPermaLink="false">monday-brief-2026-08-24</guid>
+      <itunes:duration>00:09:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Monday Brief — August 17, 2026</title>
       <description>Good morning, Tyler. It's Monday, August seventeenth. This one runs about twelve minutes. Coming up. A golf book from nineteen ninety-one that turns out to be the ancestor of the one you finished fastest all year. Three artificial intelligence labs admitting, inside a month, that their models got somewhere they were not supposed to be. And Carolina football is now…</description>
