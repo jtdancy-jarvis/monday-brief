@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 15:28:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:28:20 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -23,7 +23,7 @@
     </itunes:category>
     <item>
       <title>The Monday Brief — August 24, 2026</title>
-      <description>A weekly curation of what's worth your attention</description>
+      <description>Good morning, Tyler. It's Monday, August twenty fourth. This one runs about eleven and a half minutes. Ahead: a reread pick that has been sitting on the shelf since this show started, Carolina football five days out from Dublin, and the biggest week of Disney parks news in years. No AI and tech this week. Nothing cleared the bar, and…</description>
       <pubDate>Mon, 24 Aug 2026 09:00:00 +0000</pubDate>
       <enclosure url="https://github.com/jtdancy-jarvis/monday-brief/releases/download/ep-2026-08-24/2026-08-24.mp3" length="9123329" type="audio/mpeg" />
       <guid isPermaLink="false">monday-brief-2026-08-24</guid>
