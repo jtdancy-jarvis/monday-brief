@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>The Monday Brief</title>
@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 15:28:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 16:40:21 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -21,6 +21,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <title>The Monday Brief — August 31, 2026</title>
+      <description>Good morning, Tyler. It's Monday, August thirty-first. This one runs about eleven minutes. Ahead this morning. An architecture story that starts on a boarded-up street in Liverpool and ends in ancient Rome. Carolina opened the football season in Dublin and won it in the least glamorous way available. And Disney has confirmed it is bringing the Yeti back to life,…</description>
+      <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jtdancy-jarvis/monday-brief/releases/download/ep-2026-08-31/2026-08-31.mp3" length="9192292" type="audio/mpeg" />
+      <guid isPermaLink="false">monday-brief-2026-08-31</guid>
+      <itunes:duration>00:09:34</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Monday Brief — August 24, 2026</title>
       <description>Good morning, Tyler. It's Monday, August twenty fourth. This one runs about eleven and a half minutes. Ahead: a reread pick that has been sitting on the shelf since this show started, Carolina football five days out from Dublin, and the biggest week of Disney parks news in years. No AI and tech this week. Nothing cleared the bar, and…</description>
