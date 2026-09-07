@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Sun, 30 Aug 2026 16:40:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 12:46:41 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -21,6 +21,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <title>The Monday Brief — September 7, 2026</title>
+      <description>Good morning, Tyler. It's Monday, September seventh. Labor Day, so this one may be keeping you company somewhere other than the usual drive. It runs about thirteen minutes. Ahead this morning. Two men fly across an ocean to stand in a queue. A novel whose narrator tells you in advance which page the next body turns up on. The biggest…</description>
+      <pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jtdancy-jarvis/monday-brief/releases/download/ep-2026-09-07/2026-09-07.mp3" length="10503430" type="audio/mpeg" />
+      <guid isPermaLink="false">monday-brief-2026-09-07</guid>
+      <itunes:duration>00:10:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Monday Brief — August 31, 2026</title>
       <description>Good morning, Tyler. It's Monday, August thirty-first. This one runs about eleven minutes. Ahead this morning. An architecture story that starts on a boarded-up street in Liverpool and ends in ancient Rome. Carolina opened the football season in Dublin and won it in the least glamorous way available. And Disney has confirmed it is bringing the Yeti back to life,…</description>
