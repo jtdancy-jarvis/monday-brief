@@ -6,7 +6,7 @@
     <description>Every Monday morning: podcasts, videos, music, films, series and books worth your time. Assembled and narrated automatically.</description>
     <language>en-us</language>
     <copyright>Tyler Dancy</copyright>
-    <lastBuildDate>Mon, 07 Sep 2026 12:46:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 16:42:03 +0000</lastBuildDate>
     <atom:link href="https://jtdancy-jarvis.github.io/monday-brief/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tyler Dancy</itunes:author>
     <itunes:subtitle>A weekly curation of what's worth your attention</itunes:subtitle>
@@ -21,6 +21,16 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary" />
     </itunes:category>
+    <item>
+      <title>The Monday Brief — September 14, 2026</title>
+      <description>Good morning, Tyler. It's Monday, September fourteenth. This one runs about twelve minutes. Ahead this morning. The building behind the old Star Wars Launch Bay reopens today, right on schedule. Anthropic just admitted that one of its own models broke into someone else's computer for a fourth time, and this one sat undiscovered for seven months. Carolina is two and…</description>
+      <pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
+      <enclosure url="https://github.com/jtdancy-jarvis/monday-brief/releases/download/ep-2026-09-14/2026-09-14.mp3" length="9751939" type="audio/mpeg" />
+      <guid isPermaLink="false">monday-brief-2026-09-14</guid>
+      <itunes:duration>00:10:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
     <item>
       <title>The Monday Brief — September 7, 2026</title>
       <description>Good morning, Tyler. It's Monday, September seventh. Labor Day, so this one may be keeping you company somewhere other than the usual drive. It runs about thirteen minutes. Ahead this morning. Two men fly across an ocean to stand in a queue. A novel whose narrator tells you in advance which page the next body turns up on. The biggest…</description>
